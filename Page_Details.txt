@@ -1,0 +1,2 @@
+Dürr Dental Login
+https://login.duerrdental.com/?response_type=code&client_id=vsm&brand=dd&redirect_uri=https%3A%2F%2Fvsmonitor.com%2F&state=96e85f1c1a1f982f66c29c606d9723f7
